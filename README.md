@@ -3,6 +3,7 @@
 Proyecto de consola en Java para practicar POO, control de flujo, colecciones, validaciones, excepciones y pruebas unitarias.
 
 ## Qué incluye
+
 - Flujo **ADMIN**:
   - listar productos
   - buscar por nombre o categoría
@@ -28,21 +29,25 @@ Proyecto de consola en Java para practicar POO, control de flujo, colecciones, v
   - aplicación de descuentos
 
 ## Requisitos
+
 - Java 17+
 - Maven 3.9+
 
 ## Ejecutar tests
+
 ```bash
 mvn test
 ```
 
 ## Ejecutar la aplicación
+
 ```bash
 mvn compile
 java -cp target/classes com.ecommerce.Main
 ```
 
 ## Menú principal
+
 ```text
 1) ADMIN
 2) USUARIO
@@ -50,6 +55,7 @@ java -cp target/classes com.ecommerce.Main
 ```
 
 ## Ejemplo breve de compra
+
 1. Ingresar a **USUARIO**
 2. Listar productos
 3. Agregar producto por ID y cantidad
@@ -63,10 +69,6 @@ java -cp target/classes com.ecommerce.Main
 7. El carrito queda vacío
 
 ## Repositorio GitHub
-Agrega aquí tu repositorio público solicitado por la rúbrica:
-`https://github.com/TU-USUARIO/ecommerce-cli-m4`
 
-Sugerencia mínima de commits:
-1. `feat: crear modelo base de productos y carrito`
-2. `feat: agregar descuentos automáticos y orden`
-3. `test: incorporar pruebas unitarias y mejorar README`
+Agrega aquí tu repositorio público solicitado por la rúbrica:
+https://github.com/Torfel0312/ecommerce-cli-m4
