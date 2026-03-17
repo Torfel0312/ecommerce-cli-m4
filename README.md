@@ -70,5 +70,5 @@ java -cp target/classes com.ecommerce.Main
 
 ## Repositorio GitHub
 
-Agrega aquí tu repositorio público solicitado por la rúbrica:
+
 https://github.com/Torfel0312/ecommerce-cli-m4
